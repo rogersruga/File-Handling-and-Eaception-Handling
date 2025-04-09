@@ -1,0 +1,4 @@
+Hello world. This is awsome my friend.
+Write mode, creates a new file or overwrites an existing one
+Files should be closed after processing to release system resources.
+Python’s with statement automatically handles closing, ensuring efficient resource management
